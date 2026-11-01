@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karate-india-academy.vercel.app/sitemap.xml
